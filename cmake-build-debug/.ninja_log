@@ -1,0 +1,23 @@
+# ninja log v5
+861	952	1653492587842109862	Huffman_Workshop	4a91f1d499586dba
+22	1746	6752040272596463	CMakeFiles/Huffman_Workshop.dir/Huffman.cpp.obj	886b8d2c8d746b2b
+4	1417	6752040269115733	CMakeFiles/Huffman_Workshop.dir/main.cpp.obj	403e064552d0d6a0
+1581	1892	6752040173773443	Huffman_Workshop.exe	8d723a772a0cde3a
+3	1517	6752040363340208	CMakeFiles/Huffman_Workshop.dir/main.cpp.obj	711401145a4768a2
+21	1709	6752040365269487	CMakeFiles/Huffman_Workshop.dir/Huffman.cpp.obj	c495d76ae8ebcbce
+1710	2183	6752040369581487	Huffman_Workshop.exe	8d723a772a0cde3a
+4	1578	6752048655933951	CMakeFiles/Huffman_Workshop.dir/main.cpp.obj	711401145a4768a2
+46	1782	6752048657938588	CMakeFiles/Huffman_Workshop.dir/Huffman.cpp.obj	c495d76ae8ebcbce
+1782	2216	6752048662265381	Huffman_Workshop.exe	8d723a772a0cde3a
+4	1444	6752049549292893	CMakeFiles/Huffman_Workshop.dir/Huffman.cpp.obj	c495d76ae8ebcbce
+1445	1756	6752049552355542	Huffman_Workshop.exe	8d723a772a0cde3a
+4	1248	6752049724808028	CMakeFiles/Huffman_Workshop.dir/main.cpp.obj	711401145a4768a2
+1249	1558	6752049727833803	Huffman_Workshop.exe	8d723a772a0cde3a
+4	1314	6752050945169969	CMakeFiles/Huffman_Workshop.dir/main.cpp.obj	711401145a4768a2
+1315	1623	6752050948220083	Huffman_Workshop.exe	8d723a772a0cde3a
+4	1307	6752051522016588	CMakeFiles/Huffman_Workshop.dir/main.cpp.obj	711401145a4768a2
+1308	1631	6752051525208114	Huffman_Workshop.exe	8d723a772a0cde3a
+4	1268	6752052267523342	CMakeFiles/Huffman_Workshop.dir/main.cpp.obj	711401145a4768a2
+1269	1587	6752052270665545	Huffman_Workshop.exe	8d723a772a0cde3a
+4	1304	6752052728885726	CMakeFiles/Huffman_Workshop.dir/main.cpp.obj	711401145a4768a2
+1304	1609	6752052731899677	Huffman_Workshop.exe	8d723a772a0cde3a
